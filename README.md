@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, my nae is Kien</h1>
+<h1 align="center">Hi 👋, my name is Kien</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [Post and Telecommunications Institute of Technology]^^.
 
