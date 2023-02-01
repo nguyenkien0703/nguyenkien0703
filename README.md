@@ -18,6 +18,29 @@ My name is Kien,Nguyen Van.I am a student at the Post and Telecommunications Ins
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<a href="https://github.com/nguyenkien0703/Flappy-Bird/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Flappy-Bird&theme=radical" />
+</a>    
+
+<a href="https://github.com/nguyenkien0703/java_basic/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=java_basic&theme=merko" />
+</a>
+
+<a href="https://github.com/nguyenkien0703/web-hachinh/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=web-hachinh&theme=gruvbox" />
+</a>    
+<a href="https://github.com/nguyenkien0703/listen-hachinh/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=listen-hachinh&theme=dark" />
+</a>
+
+<a href="https://github.com/nguyenkien0703/Data-Structures-and-Algorithms/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Data-Structures-and-Algorithms&theme=onedark" />
+</a>    
+<a href="https://github.com/nguyenkien0703/Nguyen_Kien">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Nguyen_Kien&theme=cobalt" />
+</a>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nguyenkien0703&icon=9&color=3)](https://visitcount.itsvg.in)
