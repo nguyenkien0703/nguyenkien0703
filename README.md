@@ -1,92 +1,22 @@
-<h1 align="center">Hi 👋, my name is Kien</h1>
 
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyencienok/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kien9984/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kien-kien-a6a72225b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KienNgu97379927) 
 
-- ✍ I'm a student of: [Post and Telecommunications Institute of Technology]^^.
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=nguyenkien0703&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nguyenkien0703&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenkien0703&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=nguyenkien0703&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 📫 Contact me:
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-
-<p align="center">
- 
-  <a href="https://www.facebook.com/profile.php?id=100035661079458" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/nguyenkien0703" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UC6czQynelGoTzdKMwCgdhKA" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  
-  <a href="nguyenkien0703203ns@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
-## Skills:
-<p align="center">
-  
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-</p>
-<!-- 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-# Certificates:
-
-<p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
-  </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG">
-    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ">
-    <img alt="Python Data Structures" title="Python Data Structures" src="certificates/Coursera%20PQMJRCLM7BCQ.png" width="200px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera%20V7MK7JDL96DU.png" width="200px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP">
-    <img alt="Capstone: Retrieving, Processing, and Visualizing Data with Python" title="Capstone: Retrieving, Processing, and Visualizing Data with Python" src="certificates/Coursera%20DVXXD98ESKLP.png" width="200px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python">
-    <img alt="Kaggle - Python" title="Kaggle - Python" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Python.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning">
-    <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
-  </a>
-</p>
---> 
+---
+[![](https://visitcount.itsvg.in/api?id=nguyenkien0703&icon=9&color=3)](https://visitcount.itsvg.in)
