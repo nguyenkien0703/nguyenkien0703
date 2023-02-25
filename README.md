@@ -1,5 +1,5 @@
 ### WELCOME TO MY GITHUB 👋👋👋
-My name is Kien,Nguyen Van.I am a student at the Post and Telecommunications Institute of Technology.
+My name is Kien, Nguyen Van. I am a student at the Post and Telecommunications Institute of Technology.
 
 
 ## 🌐Socials
