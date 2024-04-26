@@ -19,15 +19,15 @@ My name is Kien, Nguyen Van. I am a student at the Post and Telecommunications I
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Flappy-Bird&theme=radical" />
 </a>    
 
-<a href="https://github.com/nguyenkien0703/java_basic/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=java_basic&theme=merko" />
+<a href="https://github.com/nguyenkien0703/python_ptit/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=python_ptit&theme=merko" />
 </a>
 
 <a href="https://github.com/nguyenkien0703/web-hachinh/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=web-hachinh&theme=gruvbox" />
 </a>    
-<a href="https://github.com/nguyenkien0703/listen-hachinh/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=listen-hachinh&theme=dark" />
+<a href="https://github.com/nguyenkien0703/Youtube_share/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Youtube_share&theme=dark" />
 </a>
 
 <a href="https://github.com/nguyenkien0703/Data-Structures-and-Algorithms/">
@@ -38,11 +38,11 @@ My name is Kien, Nguyen Van. I am a student at the Post and Telecommunications I
 </a>
 
 
-<a href="https://github.com/nguyenkien0703/anything">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=anything&theme=synthwave" />
+<a href="https://github.com/nguyenkien0703/Backend_blockchain">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Backend_blockchain&theme=synthwave" />
 </a>    
-<a href="https://github.com/nguyenkien0703/Web-for-me">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Web-for-me&theme=highcontrast" />
+<a href="https://github.com/nguyenkien0703/project_hardhat">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=project_hardhat&theme=highcontrast" />
 </a>
 <a href="https://github.com/nguyenkien0703/Login_Logout_Spring_Security">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Login_Logout_Spring_Security&theme=synthwave" />
