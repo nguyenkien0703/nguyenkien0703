@@ -51,5 +51,12 @@ My name is Kien, Nguyen Van. I am a student at the Post and Telecommunications I
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=Spring_Boot_Security_Jwt_Example&theme=highcontrast" />
 </a>
 
+<a href="https://github.com/nguyenkien0703/laptop-sale">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenkien0703&repo=laptop-sale&theme=synthwave" />
+</a>
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nguyenkien0703&icon=9&color=3)](https://visitcount.itsvg.in)
